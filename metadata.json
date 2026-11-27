@@ -1,0 +1,6 @@
+{
+  "name": "墨韵小书童",
+  "description": "面向小学生的小学语文认字与3D汉字笔画规范书写互动练习应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
